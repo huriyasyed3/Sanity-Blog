@@ -8,8 +8,8 @@ const Header = () => {
     Sanity Blog</Link>
     <nav>
         <ul className='flex gap-4'>
-            <li className='hover:underline cursor-pointer'>About</li>
-            <li className='hover:underline cursor-pointer'>Contact</li>
+            <li className='hover:underline cursor-pointer font-semibold'>About</li>
+            <li className='hover:underline cursor-pointer font-semibold'>Contact</li>
         </ul>
     </nav>
    </header>
